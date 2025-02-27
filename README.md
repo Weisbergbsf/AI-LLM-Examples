@@ -10,3 +10,14 @@
 
 Python Example: Using a Pre-trained Model  
 Let’s use Hugging Face to load a simple model and generate text.
+
+
+## Prompts
+
+### What are they?
+
+- Prompts are the instructions or input you give an LLM to guide its output. A good prompt can make a huge difference!
+- Example: "Write a poem" vs. "Write a funny poem about a cat in a hat."
+
+Python Example: Playing with Prompts  
+Using the same model, let’s tweak the prompt.
